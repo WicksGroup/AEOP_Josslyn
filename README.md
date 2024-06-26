@@ -5,3 +5,6 @@ Shock physics is mainly the investigation of effects of certain shock waves on d
 
 Impedance Matching - 6/26/24
 Impedance matching uses pressure-particle velocity graphs and position-time graphs to find the pressure of an unknown sample through the shock velocity properties of a known material. This technique aids with shock mitigation strategies, determining the peak stress of explosives, and discovering vulnerabilities in detonation.
+
+SOP (Streaked Optical Pyrometer) and SOP Calibration
+The SOP is used to track the amount of photons to determine the temperature of a dynamically compressed material; this complements the Visar technology in identifying shock breakout in a sample. 
