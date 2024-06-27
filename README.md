@@ -11,7 +11,8 @@ The SOP is used to track the amount of photons to determine the temperature of a
 
 B1-B2 transition in shock-compressed MgO - 6/27/24
 
-Sample Preperation
+Sample Preperation 
+  
 When preparing the sample, it is imperative that an antireflection coating is applied onto the surface to limit the photon back refelction at interface. 
 
 Laser Configuration
