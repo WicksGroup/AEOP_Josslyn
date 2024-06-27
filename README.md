@@ -1,12 +1,15 @@
 # AEOP_Josslyn
 Internship folder for Josslyn Quansah for AEOP internship Summer 2024
-Shock Physics Summary - 6/25/24
+##  Shock Physics Summary - 6/25/24
+  
 Shock physics is mainly the investigation of effects of certain shock waves on different particles, highlighting the potential changes in structure, temperature, and viscosity. This can be used to model phase transitions, Geophyics/Planetary Sciences, molecular dynamic calculations, and the denotation of explosives. 
 
-Impedance Matching - 6/26/24
+## Impedance Matching - 6/26/24
+  
 Impedance matching uses pressure-particle velocity graphs and position-time graphs to find the pressure of an unknown sample through the shock velocity properties of a known material. This technique aids with shock mitigation strategies, determining the peak stress of explosives, and discovering vulnerabilities in detonation.
 
-SOP (Streaked Optical Pyrometer) and SOP Calibration - 6/26/24
+## SOP (Streaked Optical Pyrometer) and SOP Calibration - 6/26/24
+  
 The SOP is used to track the amount of photons to determine the temperature of a dynamically compressed material; this complements the Visar technology in identifying shock breakout in a sample. 
 
 ## B1-B2 transition in shock-compressed MgO - 6/27/24
