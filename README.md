@@ -21,9 +21,9 @@ Depending on the use of either Omega-EP or Omege-60 one or two laser pulses focu
 
 ### XRD measurements
   
-Measuring X-Ray diffractions is done through a ta pinhole, which brings into line the diffractions and records their transmission geometry on specific detectors. The detectors store the x-ray energy which can be converted into units of luminescence that are photosimulated through a calibrated scanner. 
+Measuring the X-Ray diffraction is collimated through a Ta pinhole, which brings into line the diffraction and records their transmission geometry on specific detectors. The detectors store the x-ray energy which can be converted into units of luminescence that are photosimulated through a calibrated scanner. 
 
 ### Forward Model for XRD texture analysis
   
-To predict the signal of crystal orientation, forward diffraction simulations are critical. Thhe textural information modulates the intensity of powder direction in the azimuthal direction. The variation of this intensity can be calculated along the azimuth for both the B1 and B2 phase. 
+To predict the signal of crystal orientation, forward diffraction simulations are critical. The textural information modulates the intensity of powder direction in the azimuthal direction. The variation of this intensity can be calculated along the azimuth for both the B1 and B2 phase. 
 
