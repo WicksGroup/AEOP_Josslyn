@@ -34,3 +34,6 @@ To predict the signal of crystal orientation, forward diffraction simulations ar
 
 Firstly, Ramp Loading is used to allow samples to stay at the solid phase for longer as higher pressures are attained. To measure x-ray diffraction in this environment, certain criteria like specific x-ray sources and uniform pressure are required. The PXRDIP utilizes visar technology FUJI image plates, a diamond-sampld-diamond sandwich and more to capture powder x-ray diffraction. This diagnostic has enabled pressure history to be found which verifies the solidity and crystal structure of the sample. 
 
+## Iron Under Core Conditions of Large Rocky Exoplanets 
+
+To evaluate possible compostional space for large rocky exoplanets, ramp compression of iron is used to attain the essential values for density, pressure, and speed of soun along an isentropic compression path that ramp compression allows. To accurelty determine the equation of state for the planetary materials at TPa pressures, experiments need to get as close to 2 TPa as possible, which ramp compression can come close to. 
